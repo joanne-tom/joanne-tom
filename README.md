@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE student | Full-stack in spirit, backend in practice, AI in heart ❤️, and DSA as my brain gym 🧠</h3>
 <h3 align="center">Passionate about AI, ML, and building intelligent systems 🚀</h3>
 
-- 👨‍💻 Few of my projects are available at [https://joanne-portfolio.netlify.app/](https://joanne-portfolio.netlify.app/)
+- 👨‍💻 My projects are available at [https://joanne-portfolio.netlify.app/](https://joanne-portfolio.netlify.app/)
 
 - 📫 How to reach me **joannetom22@gmail.com**
 
