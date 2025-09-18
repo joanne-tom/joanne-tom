@@ -1,4 +1,4 @@
-<h1 align="center">Hey there universe👋, I'm Joanne Rachel Tom</h1>
+<h1 align="center">Hello World👋, I'm Joanne Rachel Tom</h1>
 <h3 align="center">B.Tech CSE student | Full-stack in spirit, backend in practice, AI in heart ❤️🤖</h3>
 <h3 align="center">Passionate about AI, ML, and building intelligent systems 🚀 Currently exploring backend development & AI projects 🌐</h3>
 
